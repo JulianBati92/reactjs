@@ -1,6 +1,6 @@
 import React from 'react';
-import NavbarItem from './NavbarItem';
-import NavbaritemExp from './NavbaritemExp';
+import NavbarItem from './ItemListContainer';
+import NavbaritemExp from './ItemDetailContainer';
 
 const Navbar = () => {
   const navbarLogo = "Tu Matteoli";
